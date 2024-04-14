@@ -1,0 +1,20 @@
+{
+  "name": "todo-list-byhassanali",
+  "version": "1.0.2",
+  "description": "This is TODO list application developed using TypeScript. It includes two npm packages which are inquirer and chalk. It offers ineractive functionalites for users to manage their daily TODO tasks effeciently.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.6",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  }
+}
