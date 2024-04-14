@@ -15,7 +15,7 @@ This is a command-line interface (CLI) application developed in TypeScript that 
 2. Clone this repository:
 
     ```bash
-    git clone 
+    git clone https://github.com/hassanali38/todo_list_ts_project04.git
     ```
 
 3. Install dependencies:
